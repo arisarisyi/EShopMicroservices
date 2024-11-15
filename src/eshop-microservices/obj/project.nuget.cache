@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWNib4Usef4coXSxW0eu2OI28653TXtbb3yyCv2yoUf+UbGZ4wVnCZnaXFRyvElq4cmaKsh4OG+JfH96xTQlbQ==",
+  "dgSpecHash": "LhS01d80gGzcebHyKTpLDOLXGQeuPdIBQbi/nET/U4kvdoKmFuNC4CKbsJBHOM/hyKOCxhU4t37azg2MUnuIhg==",
   "success": true,
-  "projectFilePath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/eshop-microservices.csproj",
+  "projectFilePath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/eshop-microservices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

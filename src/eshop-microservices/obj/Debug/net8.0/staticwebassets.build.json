@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3YoGewzjgaATniBVa3B6KcGDrs9PaHteiYT/Rl6aXks=",
+  "Source": "eshop-microservices",
+  "BasePath": "_content/eshop-microservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

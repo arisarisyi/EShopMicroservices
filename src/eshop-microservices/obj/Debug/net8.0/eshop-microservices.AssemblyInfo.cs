@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eshop-microservices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d866814f8c6b529588fb3ce4d4b6af143d93cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+902b706418b91a5c75e7658e81117fa2edfcad99")]
 [assembly: System.Reflection.AssemblyProductAttribute("eshop-microservices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eshop-microservices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/eshop-microservices.csproj": {}
+    "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/eshop-microservices.csproj": {}
   },
   "projects": {
-    "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/eshop-microservices.csproj": {
+    "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/eshop-microservices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/eshop-microservices.csproj",
+        "projectUniqueName": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/eshop-microservices.csproj",
         "projectName": "eshop-microservices",
-        "projectPath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/eshop-microservices.csproj",
+        "projectPath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/eshop-microservices.csproj",
         "packagesPath": "/Users/alarisyi/.nuget/packages/",
-        "outputPath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/eshop-microservices/eshop-microservices/obj/",
+        "outputPath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/eshop-microservices/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alarisyi/.nuget/NuGet/NuGet.Config"

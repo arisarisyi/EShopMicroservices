@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+1eAwdF+Prd0BsmWEwH6qethR7+uhbsuQvBe3ev3E+oghv3F7sJKQsE2cGy/1Bb1aEpIo3nJoc0zUi9Vy1RBA==",
+  "success": true,
+  "projectFilePath": "/Users/alarisyi/Desktop/net/udemy-course/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/alarisyi/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/alarisyi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/alarisyi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
